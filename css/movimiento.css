@@ -1,0 +1,35 @@
+
+
+
+
+
+
+.moving{
+    width: 10%;
+    height: 10%;
+    display: flex;
+    position: relative;
+    animation: mymove 5s infinite;
+    animation-timing-function: linear;
+    color:white;
+  }
+  
+  @keyframes mymove {
+    0%{left: 15%;
+          opacity:0;
+        }
+    25%{
+      opacity: 0.5;
+    }
+    50%{
+      opacity: 1;
+    }
+    75%{
+      opactity:0.5;
+    }
+    100%{left: 70%;
+      display: none;
+      opacity: 0;
+    }
+  }
+  
