@@ -1,0 +1,48 @@
+  body{
+      background-color: black;
+      align-items: center;
+      text-align: center;
+      margin: auto;
+      font-family: 'Press Start 2P', cursive;
+
+  }
+
+.moneda{
+    display: inline;
+    width: 6.5%;
+    height: 6.5%;
+  }
+
+
+
+.separador{
+    width: 100px;
+    height: 100px;
+}
+/*
+.dropdown-menu.bg-dark {
+color: white !important;
+}
+
+.form-control.me-2{
+  border-radius: 0px !important;
+} 
+.btn.btn-outline-success.bg-dark{
+  border-radius: 0px !important;
+
+}
+*/
+.vacio{
+  width: 500px;
+  height: 500px;
+}
+
+
+.yoshi img{
+  width:100px;
+  height: 100px;
+}
+
+
+
+
