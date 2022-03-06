@@ -1,0 +1,32 @@
+.telefono-logo{
+    color:white;
+    margin: 5px 35px 5px 35px;
+  }
+  @media screen and (max-width:480px){
+
+    .telefono-logo{
+        display: block;
+        margin:5px 15px 15px 15px;
+    }
+    .shiny{
+      display:none;
+    
+    }
+    .inner-shiny{
+      display: none;
+    }
+    .moving{
+      width:50%;
+      height: 50%;
+      animation-name: mymovemovil;
+
+    }
+    .moneda{
+     display:none; 
+    }
+    .botoninicio{
+      display:none;
+    }
+    
+  }
+  
