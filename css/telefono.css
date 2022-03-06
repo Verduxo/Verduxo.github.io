@@ -2,7 +2,7 @@
     color:white;
     margin: 5px 35px 5px 35px;
   }
-  @media screen and (max-width:480px){
+  @media screen and (max-width:300px){
 
     .telefono-logo{
         display: block;
